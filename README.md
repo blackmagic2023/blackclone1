@@ -71,14 +71,5 @@ Blackclone uses the following libraries:
     BeautifulSoup
     wget
 ```
-```
-pip install requests
-```
-```
-pip install beautifulsoup
-```
-```
-pip install wget
-```
 
 Happy Cloning! 
